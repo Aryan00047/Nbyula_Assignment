@@ -1,1 +1,17 @@
+TASK 1 - TEST PLANNING
 
+
+1.All the links on the website should lead to their respective pages.
+2.All the api calls made should not be openly visible to the user or else any hacker can use it for their personal benefit.
+3.Images used on the website should be well optimised and compressed so as to reduce loading time.
+4.Data should be managed at the backend so that while changing the data, frontend doesn’t get hampered.
+5.Negative test cases should be checked.
+Eg: User clicking randomly on screen 
+Internet connection getting lost while the transaction is going on.
+User takes to long to complete the transaction.
+User tries to do transaction simultaneously on 2 different devices.
+6.Cross browser and cross platform testing should be done to minimise chances of breaking UI.
+eg: android, ios, windows, mac
+browsers: Safari,Chrome,Firefox
+7.All the filters and sorting options should be verified and manual reloading the page should not hamper them.
+All these test cases should be on priority
